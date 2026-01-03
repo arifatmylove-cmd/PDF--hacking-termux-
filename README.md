@@ -57,7 +57,7 @@ apt install git
 apt install python3
 ```
 ```
-git clone https://github.com/evilfeonix/PDF-HackMe.git
+clone this repo and then cd 
 ```
 ```
 cd PDF-HackMe
@@ -108,3 +108,4 @@ linkedin: https://www.linkedin.com/in/evilfeonix \
 <div align="center" >
     Happy PDF Hacking!
 </div>
+
